@@ -1,0 +1,8 @@
+{
+  "id": "trishfont-origin",
+  "name": "Font cơ bản",
+  "description": "Bộ font khởi đầu cho TrishFont — gồm TCVN3, VNI, Unicode, UTM, UVN, Vietware, VietNamFont và font AutoCAD (.shx) để dùng hằng ngày.",
+  "version": "1.0.0",
+  "kind": "mixed",
+  "tags": ["vietnamese", "tcvn3", "vni", "unicode", "utm", "uvn", "shx", "autocad", "essential"]
+}

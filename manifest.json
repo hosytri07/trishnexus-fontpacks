@@ -1,5 +1,29 @@
 {
   "schema_version": 1,
-  "updated_at": "",
-  "packs": []
+  "updated_at": "2026-04-22T08:22:09.301762+00:00",
+  "packs": [
+    {
+      "id": "trishfont-origin",
+      "name": "Font cơ bản",
+      "version": "1.0.0",
+      "description": "Bộ font khởi đầu cho TrishFont — gồm TCVN3, VNI, Unicode, UTM, UVN, Vietware, VietNamFont và font AutoCAD (.shx) để dùng hằng ngày.",
+      "kind": "mixed",
+      "size_bytes": 54623423,
+      "file_count": 1716,
+      "tags": [
+        "vietnamese",
+        "tcvn3",
+        "vni",
+        "unicode",
+        "utm",
+        "uvn",
+        "shx",
+        "autocad",
+        "essential"
+      ],
+      "preview_image": "",
+      "download_url": "https://github.com/hosytri07/trishnexus-fontpacks/releases/download/trishfont-origin-v1.0.0/trishfont-origin.zip",
+      "sha256": "1dde552f6d5eff1196f9ab31f441f8e9017d273c88ea4e7237e14017c091266c"
+    }
+  ]
 }
